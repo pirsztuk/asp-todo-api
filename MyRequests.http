@@ -1,0 +1,14 @@
+GET http://localhost:5100/todos
+
+
+###
+
+POST http://localhost:5100/todos
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "Do chores",
+    "dueDate": "2026-01-01",
+    "isCompleted": false
+}
