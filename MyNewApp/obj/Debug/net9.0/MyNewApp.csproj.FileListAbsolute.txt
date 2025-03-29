@@ -26,3 +26,4 @@
 /Users/pirshtuk/Code/MyNewApp/MyNewApp/obj/Debug/net9.0/MyNewApp.pdb
 /Users/pirshtuk/Code/MyNewApp/MyNewApp/obj/Debug/net9.0/MyNewApp.genruntimeconfig.cache
 /Users/pirshtuk/Code/MyNewApp/MyNewApp/obj/Debug/net9.0/ref/MyNewApp.dll
+/Users/pirshtuk/Code/MyNewApp/MyNewApp/obj/Debug/net9.0/MyNewApp.sourcelink.json
